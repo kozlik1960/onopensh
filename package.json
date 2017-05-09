@@ -4,6 +4,9 @@
   "description": "boxvue",
   "author": "Sergey Kozlov <kozlik60@post.ru>",
   "private": false,
+  "engines": {
+    "node": "6.10.2"
+  },
   "scripts": {
     "dev": "node build/dev-server.js",
     "start": "node build/dev-server.js",
